@@ -46,6 +46,7 @@ maks_iter = 100
 # Panggil fungsi untuk metode Newton-Raphson
 solusi = metode_newton_raphson(x0, toleransi, maks_iter)
 
+
 2. Persamaan linear
 2x - 4 = 8 
 2x = 8 + 4 
