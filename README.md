@@ -2,7 +2,7 @@
 1. Persamaan non Linear
 3 + x^3 - x = 4
 
-2. Persamaan Linier
+2. Persamaan Linear
 2x - 4 = 8
 
 Jawaban
@@ -16,10 +16,10 @@ x³ - x = 1
 
 dengan cara sebagai berikut: 
 
-def fungsi_non_linier(x):
+def fungsi_non_linear(x):
     return x**3 - x + 3 - 4
 	
-def turunan_fungsi_non_linier(x):
+def turunan_fungsi_non_linear(x):
     return 3*x**2 - 1
 
 def metode_newton_raphson(x0, toleransi, maks_iter):
