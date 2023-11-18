@@ -1,6 +1,6 @@
 # UTS-METODE-NUMERIK
 1. Persamaan non Linear
-3x + x^3 - x = 4
+3 + x^3 - x = 4
 
 2. Persamaan Linier
 2x - 4 = 8
